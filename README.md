@@ -1,5 +1,13 @@
 # hcxsuite
-Downloads, Compiles and Moves executables to one folder.
+Downloads, Compiles and Moves `hcxdumptool` and `hcxtools` executables to one folder.
+
+hcxdumptool and hcxtools created by ZerBea: https://github.com/ZerBea/
+
+Project pages:
+
+https://github.com/ZerBea/hcxdumptool/
+
+https://github.com/ZerBea/hcxtools/
 
 # Why
 I don't use Git on puter so made a script to automagically download and compile, rather than browsing, downloading and compiling.
